@@ -40,7 +40,7 @@ This project focuses on analyzing historical weather data and building predictiv
 
 ---
 
-## 🌍 Advanced Analyses
+## Advanced Analyses
 
 ### ** Climate Trend Analysis**
 - Examined long-term changes in average temperatures.
